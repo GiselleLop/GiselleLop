@@ -3,7 +3,7 @@
 
 ## Educación
 
-- **Desarrollo Fronted - Laboratoria (Bootcamp Intensivo)** *(2023 - 2024)*
+- **Desarrollo Frontend - Laboratoria (Bootcamp Intensivo)** *(2023 - 2024)*
 
    Luego de terminar el bootcamp, me gradué con orgullo como Front End Developer, y mi meta es convertirme en una gran desarrolladora Full Stack. 💻
 ## Habilidades
