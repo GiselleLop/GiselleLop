@@ -29,7 +29,9 @@
   
 - ### MDLinks:
 
-  En este proyecto desarrollé una librería en Node.js que funciona como herramienta para analizar links dentro de archivos Markdown.
+  En este proyecto, he desarrollado una biblioteca en Node.js que se presenta como una herramienta instalable. 
+  Esta librería tiene la capacidad de analizar enlaces dentro de archivos Markdown, ofreciendo una solución efectiva para el procesamiento de información en este formato. 
+  La herramienta es compatible con la exploración de archivos Markdown dentro de carpetas, lo que amplía su utilidad en la gestión y análisis de enlaces en proyectos más extensos. 
   
   ✅ HTML, Git, GitHub, Node.js, Visual Studio Code, Jest y JavaScript.
   
