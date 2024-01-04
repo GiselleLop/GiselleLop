@@ -18,6 +18,15 @@
   
 ## Proyectos Destacados
 
+- ### Movie Challenge:
+
+  En este proyecto, he creado una página web diseñada para explorar, filtrar y clasificar el catálogo de películas de **The Movie Database API V3.**
+  En esta plataforma, los usuarios pueden aplicar filtros según el género de las películas y ordenarlas de manera ascendente o descendente según su popularidad.
+  Además, se ha implementado un paginador dinámico para facilitar la navegación a través de los resultados. 
+  También, los usuarios pueden obtener información detallada sobre cada película haciendo clic en ellas.
+  
+  ✅ HTML, Git, GitHub, Node.js, Visual Studio Code, Angular, TypeScript, JavaScript, netlify.
+  
 - ### MDLinks:
 
   En este proyecto desarrollé una librería en Node.js que funciona como herramienta para analizar links dentro de archivos Markdown.
