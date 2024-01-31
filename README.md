@@ -6,15 +6,16 @@
 - **Desarrollo Frontend - Laboratoria (Bootcamp Intensivo)** *(2023 - 2024)*
 
    Luego de terminar el bootcamp, me gradué con orgullo como Front End Developer, y mi meta es convertirme en una gran desarrolladora Full Stack. 💻
+  
 ## Habilidades
 
-- Desarrollo de Frontend con HTML, CSS, JavaScript.
+- Desarrollo de Frontend con HTML, CSS, JavaScript, Angular y TypeScript.
 - Diseño responsivo.
 - Colaboración efectiva en equipos ágiles.
 - Aprendizaje activo y autodidacta.
 - Uso de Chart.js para la visualizacion de datos estadisticos.
 - Uso de Firebase.
-- Pruebas unitarias con Jest.
+- Pruebas unitarias con Jest y Jasmine.
   
 ## Proyectos Destacados
 
