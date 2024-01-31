@@ -18,6 +18,12 @@
   
 ## Proyectos Destacados
 
+- ### Burger Queen API Client:
+  Este proyecto se centra en el desarrollo de una aplicación para un restaurante de comida rápida, proporcionando un sistema eficiente para la toma de pedidos mediante tablets y una 
+  gestión óptima en la cocina.
+
+  ✅ HTML, Git, GitHub, Node.js, Visual Studio Code, Angular, TypeScript, JavaScript, Vercel, Testing Jasmine/Karma.
+
 - ### Movie Challenge:
 
   En este proyecto, he creado una página web diseñada para explorar, filtrar y clasificar el catálogo de películas de **The Movie Database API V3.**
@@ -25,7 +31,7 @@
   Además, se ha implementado un paginador dinámico para facilitar la navegación a través de los resultados. 
   También, los usuarios pueden obtener información detallada sobre cada película haciendo clic en ellas.
   
-  ✅ HTML, Git, GitHub, Node.js, Visual Studio Code, Angular, TypeScript, JavaScript, netlify.
+  ✅ HTML, Git, GitHub, Node.js, Visual Studio Code, Angular, TypeScript, JavaScript, netlify, Testing Jasmine/Karma.
   
 - ### MDLinks:
 
