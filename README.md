@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy **Giselle**, una apasionada Frontend Developer con un amor profundo por la creación de experiencias web cautivadoras. Mi misión es combinar mi creatividad con habilidades técnicas para desarrollar interfaces elegantes y funcionales.
+¡Hola! Soy **Giselle**, una apasionada Web Developer con un amor profundo por la creación de experiencias web cautivadoras. Mi misión es combinar mi creatividad con habilidades técnicas para desarrollar interfaces elegantes y funcionales.
 
 ## Educación
 
@@ -10,6 +10,9 @@
 ## Habilidades
 
 - Desarrollo de Frontend con HTML, CSS, JavaScript, Angular y TypeScript.
+- NodeJS, C#.
+- API REST
+- Base de datos relacionales.
 - Diseño responsivo.
 - Colaboración efectiva en equipos ágiles.
 - Aprendizaje activo y autodidacta.
